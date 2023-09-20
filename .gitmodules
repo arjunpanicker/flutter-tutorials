@@ -3,4 +3,4 @@
 	url = git@github.com:arjunpanicker/flutter-roll-dice.git
 [submodule "qa_app"]
 	path = qa_app
-	url = .\\qa_app\\
+	url = git@github.com:arjunpanicker/flutter-qa-app.git
